@@ -1,0 +1,1 @@
+alert("¿Usted es mayor de edad?")
